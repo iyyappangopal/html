@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'Demopoc'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_72a9e88f1a764fc38bad04ca95f31f8f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a5744c857dec48a09673c5d3d267fd46 }}
         package: .
